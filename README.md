@@ -17,6 +17,9 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <div align="center">
+ [TIL](https://dev-if.notion.site/WIL-TIL-a20e8bf85287419c8b2578146cda60b6?pvs=4)
+ </div>
+ <div align="center">
   <a href="https://dev-if.notion.site/da8d9c5d52cb4044af030d5b65ee5891"><img src="https://img.shields.io/badge/portfolio-11B48A?style=for-the-badge&logo=Notion&logoColor=white&link=https://dev-if.notion.site/da8d9c5d52cb4044af030d5b65ee5891">
   </a>
   <a href="https://for-if.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=for-the-badge&logo=Tistory&logoColor=white&link=https://for-if.tistory.com/">
@@ -25,8 +28,8 @@
     <img
       src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</div>
 
+</div>
  <br>
  <br>
 
