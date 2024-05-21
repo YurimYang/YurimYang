@@ -61,3 +61,9 @@
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black">
 </div>
 
+ <br>
+
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=YurimYang&show_icons=true">
+ </div>
