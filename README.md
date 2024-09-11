@@ -15,6 +15,16 @@
  <br>
  <br>
 
+<h3 align="center">👩‍💻 Developer Resume 👩‍💻</h3>
+
+<div align="center">
+    <h4>🔗 <a href="https://my.surfit.io/w/1799602991">백엔드 개발자 커리어 프로필</a></h4>
+</div>
+
+
+ <br>
+ <br>
+
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <div align="center">
  <a href="https://dev-if.notion.site/WIL-TIL-a20e8bf85287419c8b2578146cda60b6?pvs=4"><img src ="https://img.shields.io/badge/📝_TIL_&_WIL_📝-pink?style=for-the-badge"/>
