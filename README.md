@@ -18,7 +18,10 @@
 <h3 align="center">👩‍💻 Developer Resume 👩‍💻</h3>
 
 <div align="center">
-    <h4>🔗 <a href="https://my.surfit.io/w/1799602991">백엔드 개발자 커리어 프로필</a></h4>
+    <h4>🔗 <a href="https://my.surfit.io/w/1799602991">백엔드 개발 이력서</a></h4>
+</div>
+<div align="center">
+    <h4>🔗 <a href="https://dev-if.notion.site/da8d9c5d52cb4044af030d5b65ee5891">활동 기록 포트폴리오</a></h4>
 </div>
 
 
