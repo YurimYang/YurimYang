@@ -18,7 +18,7 @@
 <h3 align="center">👩‍💻 Developer Resume 👩‍💻</h3>
 
 <div align="center">
-    <h4>🔗 <a href="https://my.surfit.io/w/1799602991">백엔드 개발 기본 이력서</a></h4>
+    <h4>🔗 <a href="https://my.surfit.io/w/1799602991">백엔드 개발 이력서</a></h4>
 </div>
 
 <div align="center">
